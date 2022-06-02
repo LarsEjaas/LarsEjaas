@@ -1,4 +1,4 @@
-# Hello - I'm [Lars Ejaas](https://github.com/LarsEjaas) <img src="Hi.gif" width="25px">
+# Hello - I'm [Lars Ejaas](https://github.com/LarsEjaas) <img src="Hi.gif" width="25">
 
 <!-- PROJECT LOGO -->
 <br />
