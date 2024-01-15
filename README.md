@@ -39,8 +39,7 @@ Check out my personal webpage to learn more about me and what I do.
  <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=LarsEjaas"/>       
 </p>
-
-![footer](https://user-images.githubusercontent.com/45132430/153684104-295a888f-3ffc-4099-8cf7-394c07214367.svg)
+<img src="https://user-images.githubusercontent.com/45132430/153684104-295a888f-3ffc-4099-8cf7-394c07214367.svg" alt="footer" style="width: 100%;">
 <br>
 
 </p>
