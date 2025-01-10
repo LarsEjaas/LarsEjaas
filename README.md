@@ -28,9 +28,12 @@ Check out my personal webpage to learn more about me and what I do.
 </div>
 <br>
  <p align="center">
- <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ELarsEjaas&screen_name=LarsEjaas"><img src="https://img.shields.io/twitter/follow/LarsEjaas?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/lars-ejaas/"><img src="https://img.shields.io/badge/-Lars%20Ejaas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/larsejaas/" /></a>
+ <a href="https://x.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ELarsEjaas&screen_name=LarsEjaas"><img src="https://img.shields.io/twitter/follow/LarsEjaas?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/lars-ejaas/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
 <br>
+   <a href="https://bsky.app/profile/larsejaas.bsky.social" rel="nofollow">
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&label=Follow%20me%20on&color=0285FF" alt="Follow me on Bluesky" />
+</a>
 <br>
 <p align="center">
  <i>Feel free to contact me directly at Twitter, LinkedIn,<br> 
