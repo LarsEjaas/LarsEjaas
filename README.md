@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://larsEjaas.com/en/">
+  <a href="https://larsEjaas.com/">
     <img src="logo.png" alt="Ejaas Logo" width="200" height="200">
   </a>
 </div>
@@ -21,10 +21,10 @@ Check out my personal webpage to learn more about me and what I do.
 </p>
 
 <div align="center">
-  · <a href="https://larsejaas.com/en/kompetencer/">Read about my skills</a>
+  · <a href="https://larsejaas.com/skills/">Read about my skills</a>
  · 
 <br>
-· <a href="https://larsejaas.com/en/">Visit my personal webpage </a> ·
+· <a href="https://larsejaas.com/">Visit my personal webpage </a> ·
 </div>
 <br>
  <p align="center">
